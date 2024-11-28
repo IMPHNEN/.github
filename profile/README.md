@@ -68,6 +68,26 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
       </a>
     </td>
   </tr>
+  <tr>
+    <td align=center width=100>
+      <a href="https://github.com/fdvky1">
+        <img src="https://github.com/fdvky1.png?size=75">
+        <p>fdvky1</p>
+      </a>
+    </td>
+    <td align=center width=100>
+      <a href="https://github.com/gryzzlaycutzy121">
+        <img src="https://github.com/gryzzlaycutzy121.png?size=75">
+        <p>gryzzlaycutzy121</p>
+      </a>
+    </td>
+    <td align=center width=100>
+      <a href="https://github.com/mornsoltice">
+        <img src="https://github.com/mornsoltice.png?size=75">
+        <p>mornsoltice</p>
+      </a>
+    </td>
+  </tr>
 </table>
 <!---
 <div align=center>
