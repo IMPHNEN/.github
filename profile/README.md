@@ -9,8 +9,11 @@
   <hr>
 </div>
 
-### Visi
-Membuat orang menjadi malas
+<p align=justify>
+<b>IMPHNEN</b> atau juga "Ingin Menjadi Programmer Handal Namun Enggan Ngoding" merupakan sebuah grup yang dimana berisi orang yang pengen menjadi programmer handal tetapi dia tidak ada semangat untuk ngoding atau malas ngoding, dan digantikan aktivitasnya dengan scroll facebook
+</p>
 
+### Visi
+  Membuat orang menjadi malas
 ### Misi
 1. Mencerdaskan member IMPHNEN
