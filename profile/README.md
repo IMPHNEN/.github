@@ -27,12 +27,7 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
 <hr>
 <br>
 <table align=center>
-  <caption><b>Best Anomaly Member</b></caption>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
+  <caption align=center><b>Best Anomaly Member</b></caption>
   <tr>
     <td align=center>
       <img src="https://github.com/dxtstd.png?size=100">
