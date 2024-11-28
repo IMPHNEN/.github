@@ -24,3 +24,8 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
   <a href="https://www.facebook.com/groups/programmerhandal"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/facebook.svg"></a>
   <a href="https://github.com/IMPHNEN/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg"></a>
 </div>
+<hr>
+<div align=center>
+  Hall Of Fame 🔥<br>
+  <img src="./ec.jpeg" width=300>
+</div>
