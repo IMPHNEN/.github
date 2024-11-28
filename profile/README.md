@@ -49,14 +49,24 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
     </td>
   </tr>
   <tr>
-    <td align=center width=100></td>
+    <td align=center width=100>
+      <a href="https://github.com/Famozzy">
+        <img src="https://github.com/Famozzy.png?size=75">
+        <p>Famozzy</p>
+      </a>
+    </td>
     <td align=center width=100>
       <a href="https://github.com/suryami62">
         <img src="https://github.com/suryami62.png?size=75">
         <p>suryami62</p>
       </a>
     </td>
-    <td align=center  width=100></td>
+    <td align=center width=100>
+      <a href="https://github.com/BoboiAzumi">
+        <img src="https://github.com/BoboiAzumi.png?size=75">
+        <p>BoboiAzumi</p>
+      </a>
+    </td>
   </tr>
 </table>
 <!---
