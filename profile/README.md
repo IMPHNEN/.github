@@ -10,8 +10,8 @@
 </div>
 
 - Visi
-- - Malas Ngoding
+  - Malas Ngoding
 
 - Misi
-- 1. Membuat orang menjadi tambah malas
-- 1. saya ga tau mau buat apa
+  1. Membuat orang menjadi tambah malas
+  1. saya ga tau mau buat apa
