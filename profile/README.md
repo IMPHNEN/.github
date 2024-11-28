@@ -14,3 +14,10 @@
 </p>
 
 
+### Gabunglah bersama kami
+Kami ada di beberapa platform media sosial, marilah bergabung ke komunitas kami
+<div>
+  <a href="https://discord.gg/imphnen"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg"></a>
+  <a href="https://www.facebook.com/groups/programmerhandal"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/facebook.svg"></a>
+  <a href="https://github.com/IMPHNEN/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg"></a>
+</div>
