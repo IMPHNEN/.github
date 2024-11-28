@@ -46,6 +46,11 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
         <img src="https://github.com/Zaenalabidin57.png?size=100">
         <p>Zaenalabidin57</p>
       </a>
+    </td><td align=center>
+      <a href="https://github.com/suryami62">
+        <img src="https://github.com/suryami62.png?size=100">
+        <p>suryami62</p>
+      </a>
     </td>
   </tr>
 </table>
