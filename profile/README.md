@@ -26,6 +26,7 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
 </div>
 <hr>
 <div align=center>
-  Hall Of Fame 🔥<br>
-  <img src="./ec.jpeg" width=300>
+  🔥[ Hall Of Fame ]🔥
+  <br>
+  <img src="./ec.png" width="300px" style="border-radius: 10px">
 </div>
