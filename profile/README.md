@@ -1,7 +1,7 @@
 <div align=center>
   Welcome To Official Organization
   <br>
-  <font size=5><b>IMPHNEN</b></font>
+  <font size="5"><b>IMPHNEN</b></font>
 </div>
 
 <a href="https://www.facebook.com/groups/programmerhandal">
@@ -9,7 +9,7 @@
 </a>
 
 <div align=center>
-  <font size=1><i>Ingin Menjadi Programmer Handal Namun Enggan Ngoding</i></font>
+  <font size="1"><i>Ingin Menjadi Programmer Handal Namun Enggan Ngoding</i></font>
   <hr>
 </div>
 
@@ -18,7 +18,7 @@
 </p>
 
 <div>
-<font size=4><b>Gabunglah bersama kami</b></font>
+<font size="4"><b>Gabunglah bersama kami</b></font>
 <br>
 Kami ada di beberapa platform media sosial, marilah bergabung ke komunitas kami<br>
   <a href="https://discord.gg/imphnen"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg"></a>
