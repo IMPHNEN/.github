@@ -25,8 +25,36 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
   <a href="https://github.com/IMPHNEN/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg"></a>
 </div>
 <hr>
+<br>
+<table align=center>
+  <tr>
+    <th></th>
+    <th>Best Anomaly Member</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td align=center>
+      <img src="https://github.com/dxtstd.png?size=100">
+      <a href="https://github.com/dxtstd">
+        <p>dxtstd</p>
+      </a>
+    </td>
+    <td align=center>
+      <img src="https://github.com/euxzy.png?size=100">
+      <a href="https://github.com/euxzy">
+        <p>euxzy</p>
+      </a>
+    </td>
+    <td align=center>
+      <img src="https://github.com/Zaenalabidin57.png?size=100">
+      <a href="https://github.com/Zaenalabidin57">
+        <p>Zaenalabidin57</p>
+      </a>
+    </td>
+  </tr>
+</table>
 <div align=center>
-  🔥[ Hall Of Fame ]🔥
   <br>
   <img src="./ec.png" width="300px" style="border-radius: 10px">
 </div>
+
