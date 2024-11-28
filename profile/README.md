@@ -9,9 +9,8 @@
   <hr>
 </div>
 
-- Visi
-  - Malas Ngoding
+### Visi
+Membuat orang menjadi malas
 
-- Misi
-  1. Membuat orang menjadi tambah malas
-  1. saya ga tau mau buat apa
+### Misi
+1. Mencerdaskan member IMPHNEN
