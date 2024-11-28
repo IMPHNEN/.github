@@ -29,34 +29,34 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
 <table align=center>
   <p align=center><b>Best Anomaly Members</b><p>
   <tr>
-    <td align=center>
+    <td align=center width=100>
       <a href="https://github.com/dxtstd">
-        <img src="https://github.com/dxtstd.png?size=100">
+        <img src="https://github.com/dxtstd.png?size=75">
         <p>dxtstd</p>
       </a>
     </td>
-    <td align=center>
+    <td align=center width=100>
       <a href="https://github.com/euxzy">
-        <img src="https://github.com/euxzy.png?size=100">
+        <img src="https://github.com/euxzy.png?size=75">
         <p>euxzy</p>
       </a>
     </td>
-    <td align=center>
+    <td align=center width=100>
       <a href="https://github.com/Zaenalabidin57">
-        <img src="https://github.com/Zaenalabidin57.png?size=100">
+        <img src="https://github.com/Zaenalabidin57.png?size=75">
         <p>Zaenalabidin57</p>
       </a>
     </td>
   </tr>
   <tr>
-    <td></td>
-    <td align=center>
+    <td align=center width=100></td>
+    <td align=center width=100>
       <a href="https://github.com/suryami62">
-        <img src="https://github.com/suryami62.png?size=100">
+        <img src="https://github.com/suryami62.png?size=75">
         <p>suryami62</p>
       </a>
     </td>
-    <td></td>
+    <td align=center  width=100></td>
   </tr>
 </table>
 <!---
