@@ -27,9 +27,10 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
 <hr>
 <br>
 <table align=center>
+  <caption><b>Best Anomaly Member</b></caption>
   <tr>
     <th></th>
-    <th>Best Anomaly Member</th>
+    <th></th>
     <th></th>
   </tr>
   <tr>
@@ -53,8 +54,9 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
     </td>
   </tr>
 </table>
+<!---
 <div align=center>
   <br>
   <img src="./ec.png" width="300px" style="border-radius: 10px">
 </div>
-
+--->
