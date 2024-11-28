@@ -1,3 +1,7 @@
+<div align=center>
+  <p>Welcome to Official Organization</p>
+  <hr>
+</div>
 <h1 align=center>IMPHNEN</h1>
 
 ![banner](./banner.png)
