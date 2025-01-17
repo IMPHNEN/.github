@@ -30,6 +30,12 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
   <p align=center><b>Best Anomaly Members</b><p>
   <tr>
     <td align=center width=100>
+      <a href="https://github.com/MFathinHalim">
+        <img src="https://ik.imagekit.io/9hpbqscxd/SB/pp-8592194422988981.jpg?updatedAt=1736516022004?size=75">
+        <p>M.Fathin Halim</p>
+      </a>
+    </td>
+    <td align=center width=100>
       <a href="https://github.com/dxtstd">
         <img src="https://github.com/dxtstd.png?size=75">
         <p>dxtstd</p>
