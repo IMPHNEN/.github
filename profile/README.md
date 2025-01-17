@@ -32,7 +32,7 @@ Kami ada di beberapa platform media sosial, marilah bergabung bersama ke komunit
     <td align=center width=100>
       <a href="https://github.com/MFathinHalim">
         <img src="https://ik.imagekit.io/9hpbqscxd/SB/pp-8592194422988981.jpg?updatedAt=1736516022004?size=75">
-        <p>M.Fathin Halim</p>
+        <p>FathinHalim</p>
       </a>
     </td>
     <td align=center width=100>
