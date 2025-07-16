@@ -4,7 +4,7 @@
 </div>
 
 <a href="https://www.facebook.com/groups/programmerhandal">
-  <img src="./banner.png" align=center style="border-radius: 20px">
+  <img src="https://raw.githubusercontent.com/IMPHNEN/.github/main/profile/banner.png" align=center style="border-radius: 20px">
 </a>
 
 <div align=center>
