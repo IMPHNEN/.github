@@ -25,8 +25,8 @@ Kami ada di beberapa platform digital, marilah bergabung bersama ke komunitas ka
 <div>
 <b>Sosial Media</b>
 <br>
-  <a href="https://discord.gg/imphnen"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg"></a>
   <a href="https://www.facebook.com/groups/programmerhandal"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/facebook.svg"></a>
+  <a href="https://discord.gg/imphnen"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg"></a>
   <a href="https://github.com/IMPHNEN/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg"></a>
   <a href="https://t.me/imphnen_id"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/telegram.svg"></a>
   <a href="https://instagram.com/imphnen.dev"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg"></a>
@@ -35,8 +35,8 @@ Kami ada di beberapa platform digital, marilah bergabung bersama ke komunitas ka
 <div>
 <b>Komunitas Lainnya<b>
 <br>
-  <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png"></a>
-  <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/32px-Osu%21_Logo_2016.svg.png"></a>
-  <a href=""><img src="">
+  <a href="https://steamcommunity.com/groups/IMPHNEN"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png"></a>
+  <a href="https://osu.ppy.sh/teams/28801"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/32px-Osu%21_Logo_2016.svg.png"></a>
+  <a href="https://wplace.live/join?id=01988ea0-ec4f-79ca-9273-c9e09db1a84e"><img src="https://raw.githubusercontent.com/IMPHNEN/.github/refs/heads/main/profile/wlive.png">
 </div>
 <hr>
