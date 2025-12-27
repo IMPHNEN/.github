@@ -26,10 +26,12 @@ Kami ada di beberapa platform digital, marilah bergabung bersama ke komunitas ka
 <b>Sosial Media</b>
 <br>
   <a href="https://www.facebook.com/groups/programmerhandal"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/facebook.svg"></a>
+  <a href="https://www.linkedin.com/company/imphnen/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg"></a>
   <a href="https://discord.gg/imphnen"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg"></a>
   <a href="https://github.com/IMPHNEN/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg"></a>
   <a href="https://t.me/imphnen_id"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/telegram.svg"></a>
   <a href="https://instagram.com/imphnen.dev"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg"></a>
+  <a href="https://www.youtube.com/@IMPHNEN-LazyCode"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/youtube.svg"></a>
 </div>
 <br>
 <div>
