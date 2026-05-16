@@ -38,8 +38,8 @@ Kami ada di beberapa platform digital, marilah bergabung bersama ke komunitas ka
 <div>
 <b>Komunitas Lainnya<b>
 <br>
-  <a href="https://steamcommunity.com/groups/IMPHNEN"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/32px-Steam_icon_logo.svg.png"></a>
-  <a href="https://osu.ppy.sh/teams/28801"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/32px-Osu%21_Logo_2016.svg.png"></a>
+  <a href="https://steamcommunity.com/groups/IMPHNEN"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/40px-Steam_icon_logo.svg.png"></a>
+  <a href="https://osu.ppy.sh/teams/28801"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/40px-Osu%21_Logo_2016.svg.png"></a>
   <a href="https://wplace.live/join?id=01988ea0-ec4f-79ca-9273-c9e09db1a84e"><img src="https://raw.githubusercontent.com/IMPHNEN/.github/refs/heads/main/profile/wlive.png">
 </div>
 <hr>
